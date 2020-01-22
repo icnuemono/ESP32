@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\ltkro\\Documents\\PlatformIO\\Projects\\ESP32"
+		},
+		{
+			"name": "ESP32 GATT Practice",
+			"path": "C:\\Users\\ltkro\\Documents\\PlatformIO\\Projects\\ESP32 GATT Practice"
+		},
+		{
+			"name": "ESP32 AHRS",
+			"path": "C:\\Users\\ltkro\\Documents\\PlatformIO\\Projects\\ESP32 AHRS"
+		}
+	],
+	"settings": {}
+}
